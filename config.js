@@ -20,9 +20,9 @@ function kyun(seconds){
 }
 					runtime = process.uptime()
 					teks = `${kyun(runtime)}`
-global.owner = ['6283820073017','62813828362494', '6287827659529', '919089248348','12135998445', '6288708344182', '0' ] // Put your number here
-global.fake = ['6283820073017', '6281382836249', '6289681378568', '62813828362494', '6283801499848']
-global.fakeNum = ['6283820073017', '6281382836249', '6289681378568', '62813828362494', '6283801499848', '6283820073017','62813828362494', '6287827659529', '919089248348','12135998445', '0' ]
+global.owner = ['6289618777587', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] // Put your number here
+global.fake = ['6289618777587', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+global.fakeNum = ['6289618777587', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0' '0' ]
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -48,13 +48,13 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname =  `Simple WhatsApp Bot`
-global.author = `@Rlxfly`
+global.author = `@ekuzika_18 <3`
 global.thumb = tum
 global.thumb2 = tum2
 global.thumb3 = tum3
 
 global.runtime = teks
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 65 // The higher, The harder levelup
 let chalk = require('chalk')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
